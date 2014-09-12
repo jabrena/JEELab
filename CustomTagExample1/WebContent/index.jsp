@@ -7,7 +7,8 @@
 	<title>Demo</title>
 </head>
 <body>
-Demo
-<h5f:Hello/>
+<h1>Demo</h1>
+<h5f:Input readonly="true" />
+<h5f:Input2 data-req="demo" />
 </body>
 </html>
