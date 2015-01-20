@@ -7,7 +7,6 @@
 </head>
 <body>
 <h1>Creating a Cookie with a JSP</h1>
-</center>
 <%
 	//Reading cookies in a JSP
 	Cookie cookie = null;
